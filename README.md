@@ -2,7 +2,7 @@
 Crea un repositori
 
 ## Activitats
-* [Lloc Web](https://luurotova.github.io/1_lloc-web/)
+* [1_Lloc-Web](https://luurotova.github.io/1_lloc-web/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
