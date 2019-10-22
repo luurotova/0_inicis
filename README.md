@@ -3,8 +3,8 @@ Crea un repositori
 
 ## Activitats
 * [1_Lloc-Web](https://luurotova.github.io/1_lloc-web/)
-* [2_CMYK] (https://luurotova.github.io/2_cmyk/)
-* [3_Broom] (https://luurotova.github.io/3_diseny/)
+* [2_CMYK](https://luurotova.github.io/2_cmyk/)
+* [3_Broom](https://luurotova.github.io/3_diseny/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
