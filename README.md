@@ -5,6 +5,7 @@ Crea un repositori
 * [1_Lloc-Web](https://luurotova.github.io/1_lloc-web/)
 * [2_CMYK](https://luurotova.github.io/2_cmyk/)
 * [3_Broom](https://luurotova.github.io/3_diseny/)
+* [4_Maquetaci{o](https://luurotova.github.io/4_maquetacio)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
