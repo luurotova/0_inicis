@@ -7,7 +7,7 @@ Crea un repositori
 * [3_Broom](https://luurotova.github.io/3_diseny/)
 * [4_Maquetació](https://luurotova.github.io/4_maquetacio)
 * [6_Targetes](https://luurotova.github.io/6_targetes/)
-* [6_LandingPage](https://luurotova.github.io/landing_page/)
+* [7_LandingPage](https://luurotova.github.io/landing_page/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
