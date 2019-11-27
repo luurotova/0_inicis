@@ -8,6 +8,7 @@ Crea un repositori
 * [4_Maquetació](https://luurotova.github.io/4_maquetacio)
 * [6_Targetes](https://luurotova.github.io/6_targetes/)
 * [7_LandingPage](https://luurotova.github.io/landing_page/)
+* [8_Grid](https://luurotova.github.io/8_grid/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
