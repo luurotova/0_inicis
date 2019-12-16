@@ -9,6 +9,7 @@ Crea un repositori
 * [5_Targetes](https://luurotova.github.io/6_targetes/)
 * [6_LandingPage](https://luurotova.github.io/landing_page/)
 * [7_Grid-Moma](https://luurotova.github.io/8_grid/)
+* [Examen 16/12/19](https://luurotova.github.io/examen_lucas/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
