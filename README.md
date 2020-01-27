@@ -10,6 +10,7 @@ Crea un repositori
 * [6_LandingPage](https://luurotova.github.io/landing_page/)
 * [7_Grid-Moma](https://luurotova.github.io/8_grid/)
 * [Examen 16/12/19](https://luurotova.github.io/examen_lucas/)
+* [14_Document_js](https://luurotova.github.io/14_document_js/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
