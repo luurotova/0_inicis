@@ -13,6 +13,7 @@ Crea un repositori
 * [14_Document_js](https://luurotova.github.io/14_document_js/)
 * [15_Menús](https://luurotova.github.io/15_menus/)
 * [17_Porfolio](https://luurotova.github.io/porfolio_lucas/)
+* [Examen 03/03/2020](https://luurotova.github.io/examen02-03-2020/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
